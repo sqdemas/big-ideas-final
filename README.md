@@ -18,6 +18,6 @@ The datasets used are:
 
 - Samantha Demas (sqd4@pitt.edu) (Daily Community Center Attendence)
 - Michelle Wei (miw185@pitt.edu) (Pittsburgh Police Arrest Data)
-- Jenna Reiter
+- Jenna Reiter (jrr186@pitt.edu) (Fire Incidents in Pittsburgh)
 
 Personal notebooks are named after group members.
