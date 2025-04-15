@@ -1,4 +1,5 @@
 # Best Neighborhood in Pittsburgh
+A project for CMPINF 0010 to determine the best neighborhood in Pittsburgh using a data driven argument from three sub-metrics.
 
 ## Group Name: People Who Show Up
 
